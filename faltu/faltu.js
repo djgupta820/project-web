@@ -1,1 +1,0 @@
-document.getElementsById('text').innerHTML = "Hello World";
