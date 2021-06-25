@@ -1,4 +1,0 @@
-function onLoad()
-{
-    alert("Welcome");
-}
